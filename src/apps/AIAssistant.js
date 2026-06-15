@@ -312,7 +312,7 @@ export default class AIAssistant {
     const response =
         await fetch(
 
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyCr4sNcHYkF7Zbud2y-ey3ZXqwLTrMknUE",
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AQ.Ab8RN6Jr7HjAULwv17EVTH2pFfzirEujX_l-8Yu6PRx-plbvYw",
 
             {
 
